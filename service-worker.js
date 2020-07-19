@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/podcast-app/precache-manifest.6a2188d36a90acc46e6f6e98bb0aa18d.js"
+  "/podcast-app/precache-manifest.b36a819384fee3b83634e60bad520780.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "podcast-app"});
